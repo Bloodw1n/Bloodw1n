@@ -1,4 +1,5 @@
-# Здравствуй!
+# Здравствуй! <img src="https://giphy.com/embed/Vhd10uVrDjMhAG7IyV" width="25px" />
+  
 ### Меня зовут Арсений, и я фронтенд-разработчик
 
 **Мой технологический стек:**
@@ -10,7 +11,7 @@
 *Figma, Photoshop
 *Tilda 
 
-📫Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn] (https://www.linkedin.com/in/arseniy-punko/)
+📫Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/)
 
 <!--
 **Bloodw1n/Bloodw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
