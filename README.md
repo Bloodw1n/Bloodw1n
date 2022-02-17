@@ -1,15 +1,14 @@
-# Здравствуй! <img src="https://giphy.com/stickers/hello-hi-waving-Vhd10uVrDjMhAG7IyV" alt=""hello /> 
-  
+# Здравствуй! <img src="https://i.gifer.com/7cHR.gif" />
 ### Меня зовут Арсений, и я фронтенд-разработчик
 
 **Мой технологический стек:**
-*HTML (Semantics)
-*CSS (Responsive, Adaptive), SASS/SCSS
-*JavaScript (ES6)
-*React (React Hooks, React-router)
-*MySQL, PostgreSQL (basic)
-*Figma, Photoshop
-*Tilda 
+* HTML (Semantics)
+* CSS (Responsive, Adaptive), SASS/SCSS
+* JavaScript (ES6)
+* React (React Hooks, React-router)
+* MySQL, PostgreSQL (basic)
+* Figma, Photoshop
+* Tilda 
 
 📫Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/)
 
