@@ -10,7 +10,7 @@
 * Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
 * Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
 
-📫Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/)
+<img src="https://img.icons8.com/small/16/000000/phone-not-being-used.png"/> Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/), [ВКонтакте](https://vk.com/arseniy_punko)
 
 <!--
 **Bloodw1n/Bloodw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
