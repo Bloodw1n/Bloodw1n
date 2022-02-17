@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://giphy.com/embed/Vhd10uVrDjMhAG7IyV" width="25px" />
+# Здравствуй! <img src="https://giphy.com/stickers/hello-hi-waving-Vhd10uVrDjMhAG7IyV" alt=""hello /> 
   
 ### Меня зовут Арсений, и я фронтенд-разработчик
 
