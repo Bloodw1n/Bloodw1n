@@ -1,7 +1,7 @@
-# Здравствуй!👋
-### Меня зовут Арсений, и я фронтенд-разработчик <img src="https://img.icons8.com/small/16/000000/developer.png"/>
+# Hello!👋
+### My name is Arseniy and I am a junior front end developer <img src="https://img.icons8.com/small/16/000000/developer.png"/>
 
-**Мой технологический стек:**
+**My stack:**
 * HTML (Semantics)  <img src="https://img.icons8.com/small/16/000000/source-code.png"/>
 * CSS (Responsive, Adaptive), SASS/SCSS <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
 * JavaScript (ES6) <img src="https://img.icons8.com/small/16/000000/js.png"/>
@@ -10,7 +10,9 @@
 * Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
 * Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
 
-<img src="https://img.icons8.com/small/16/000000/phone-not-being-used.png"/> Связаться со мной: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/), [ВКонтакте](https://vk.com/arseniy_punko)
+I would like to be a part of a great company and to join to a talented team.
+
+<img src="https://img.icons8.com/small/16/000000/phone-not-being-used.png"/> You can reach me here: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/), [ВКонтакте](https://vk.com/arseniy_punko)
 
 <!--
 **Bloodw1n/Bloodw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
