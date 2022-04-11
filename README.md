@@ -10,7 +10,7 @@
 * Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
 * Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
 
-I would like to be a part of a great company and to join to a talented team.
+I would like to be a part of a great company and to join a talented team.
 
 <img src="https://img.icons8.com/small/16/000000/phone-not-being-used.png"/> You can reach me here: [telegram](https://t.me/arseniy_punko), [LinkedIn](https://www.linkedin.com/in/arseniy-punko/), [ВКонтакте](https://vk.com/arseniy_punko)
 
