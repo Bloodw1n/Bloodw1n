@@ -3,8 +3,8 @@
 
 **My stack:**
 * HTML (Semantics)  <img src="https://img.icons8.com/small/16/000000/source-code.png"/>
-* CSS (Responsive, Adaptive), SASS/SCSS <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
-* JavaScript (ES6) <img src="https://img.icons8.com/small/16/000000/js.png"/>
+* CSS (Responsive, Adaptive), SASS (SCSS) <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
+* JavaScript (ES6+) <img src="https://img.icons8.com/small/16/000000/js.png"/>
 * React (Redux, React Hooks, React-router, React Context, Axios, React Skeleton) <img src="https://img.icons8.com/small/16/000000/react.png"/>
 * MySQL, PostgreSQL (basic) <img src="https://img.icons8.com/small/16/000000/sql.png"/>
 * Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
