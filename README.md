@@ -1,5 +1,5 @@
 # Hello!👋
-### My name is Arseniy and I am a junior front end developer <img src="https://img.icons8.com/small/16/000000/developer.png"/>
+### My name is Arseniy and I am a front end developer <img src="https://img.icons8.com/small/16/000000/developer.png"/>
 
 **My stack:**
 * HTML (Semantics)  <img src="https://img.icons8.com/small/16/000000/source-code.png"/>
