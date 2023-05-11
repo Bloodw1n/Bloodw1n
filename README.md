@@ -3,9 +3,11 @@
 
 **My stack:**
 * HTML (Semantics)  <img src="https://img.icons8.com/small/16/000000/source-code.png"/>
-* CSS (Responsive, Adaptive), SASS (SCSS) <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
+* CSS (Responsive, Adaptive, BEM), SASS/SCSS; <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
+* Bootstrap, Material-UI, Tailwind-UI <img src="https://img.icons8.com/?size=16&id=24870&format=png" /> 
 * JavaScript (ES6+) <img src="https://img.icons8.com/small/16/000000/js.png"/>
-* React (Redux, React Hooks, React-router, React Context, Axios, React Skeleton) <img src="https://img.icons8.com/small/16/000000/react.png"/>
+* React (React Hooks, Axios, React-router, React Context, React Skeleton) <img src="https://img.icons8.com/small/16/000000/react.png"/>
+* Redux (Saga, Thunk, Toolkit, RTK Query ) <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" />
 * MySQL, PostgreSQL (basic) <img src="https://img.icons8.com/small/16/000000/sql.png"/>
 * Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
 * Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
