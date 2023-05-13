@@ -3,11 +3,11 @@
 
 **My stack:**
 - <img src="https://img.icons8.com/small/16/000000/source-code.png"/> HTML (Semantics)  
-- <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/> CSS (Responsive, Adaptive, BEM), SASS/SCSS, Styled-Сomponents; 
+- <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/> CSS (Responsive, Adaptive, BEM), SASS/SCSS, Styled-Сomponents 
 - <img src="https://img.icons8.com/?size=16&id=24870&format=png" /> Bootstrap, Material-UI, Tailwind-UI
 - <img src="https://img.icons8.com/small/16/000000/js.png"/> JavaScript (ES6+) 
 - <img src="https://img.icons8.com/small/16/000000/react.png"/> React (React Hooks, Axios, React-router, React Context, React Skeleton) 
-- <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query ) 
+- <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query) 
 - <img src="https://img.icons8.com/?size=16&id=WwpSBtoaopNz&format=png" /> Jest
 - <img src="https://img.icons8.com/small/16/000000/sql.png"/> MySQL, PostgreSQL (basic) 
 - <img src="https://img.icons8.com/small/16/000000/psd.png"/> Figma, Zeplin, Photoshop 
