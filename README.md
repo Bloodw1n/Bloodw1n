@@ -8,6 +8,7 @@
 - <img src="https://img.icons8.com/small/16/000000/js.png"/> JavaScript (ES6+) 
 - <img src="https://img.icons8.com/small/16/000000/react.png"/> React (React Hooks, Axios, React-router, React Context, React Skeleton) 
 - <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query ) 
+- <img src="https://img.icons8.com/?size=16&id=WwpSBtoaopNz&format=png" /> Jest
 - <img src="https://img.icons8.com/small/16/000000/sql.png"/> MySQL, PostgreSQL (basic) 
 - <img src="https://img.icons8.com/small/16/000000/psd.png"/> Figma, Zeplin, Photoshop 
 - <img src="https://img.icons8.com/small/16/000000/plugin.png"/> Tilda 
