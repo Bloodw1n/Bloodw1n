@@ -9,7 +9,7 @@
 * React (React Hooks, Axios, React-router, React Context, React Skeleton) <img src="https://img.icons8.com/small/16/000000/react.png"/>
 * Redux (Saga, Thunk, Toolkit, RTK Query ) <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" />
 * MySQL, PostgreSQL (basic) <img src="https://img.icons8.com/small/16/000000/sql.png"/>
-* Figma, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
+* Figma, Zeplin, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
 * Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
 
 I would like to be a part of a great company and to join a talented team.
