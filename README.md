@@ -2,15 +2,15 @@
 ### My name is Arseniy and I am a front end developer <img src="https://img.icons8.com/small/16/000000/developer.png"/>
 
 **My stack:**
-* HTML (Semantics)  <img src="https://img.icons8.com/small/16/000000/source-code.png"/>
-* CSS (Responsive, Adaptive, BEM), SASS/SCSS; <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/>
-* Bootstrap, Material-UI, Tailwind-UI <img src="https://img.icons8.com/?size=16&id=24870&format=png" /> 
-* JavaScript (ES6+) <img src="https://img.icons8.com/small/16/000000/js.png"/>
-* React (React Hooks, Axios, React-router, React Context, React Skeleton) <img src="https://img.icons8.com/small/16/000000/react.png"/>
-* Redux (Saga, Thunk, Toolkit, RTK Query ) <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" />
-* MySQL, PostgreSQL (basic) <img src="https://img.icons8.com/small/16/000000/sql.png"/>
-* Figma, Zeplin, Photoshop <img src="https://img.icons8.com/small/16/000000/psd.png"/>
-* Tilda <img src="https://img.icons8.com/small/16/000000/plugin.png"/>
+- <img src="https://img.icons8.com/small/16/000000/source-code.png"/> HTML (Semantics)  
+- <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/> CSS (Responsive, Adaptive, BEM), SASS/SCSS; 
+- <img src="https://img.icons8.com/?size=16&id=24870&format=png" /> Bootstrap, Material-UI, Tailwind-UI
+- <img src="https://img.icons8.com/small/16/000000/js.png"/> JavaScript (ES6+) 
+- <img src="https://img.icons8.com/small/16/000000/react.png"/> React (React Hooks, Axios, React-router, React Context, React Skeleton) 
+- <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query ) 
+- <img src="https://img.icons8.com/small/16/000000/sql.png"/> MySQL, PostgreSQL (basic) 
+- <img src="https://img.icons8.com/small/16/000000/psd.png"/> Figma, Zeplin, Photoshop 
+- <img src="https://img.icons8.com/small/16/000000/plugin.png"/> Tilda 
 
 I would like to be a part of a great company and to join a talented team.
 
