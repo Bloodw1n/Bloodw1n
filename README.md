@@ -1,7 +1,7 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 ### :man_technologist: My name is Arseniy and I am a front end developer 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZmMGVmMTUzN2M3MDQyYzFjZDM3M2JjYzA2M2E2ZDE3ODFjMzlmYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jm5xElD30ys3NDEPBe/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjNTdiYWY1ZDcwZGYzYzdiZTA5ZjEyZDE0ODhlNDdkMTU1NGRiMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
 ### :hammer_and_wrench: My stack:
