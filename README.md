@@ -1,5 +1,5 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-### :man_technologist: My name is Arseniy and I am a front end developer 
+### :man_technologist: My name is Arseniy and I am a Front End Developer 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjNTdiYWY1ZDcwZGYzYzdiZTA5ZjEyZDE0ODhlNDdkMTU1NGRiMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
