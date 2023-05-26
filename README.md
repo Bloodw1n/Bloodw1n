@@ -12,6 +12,7 @@
 - <img src="https://img.icons8.com/?size=16&id=vMqgHSToxrJR&format=png" /> TypeScript
 - <img src="https://img.icons8.com/small/16/000000/react.png"/> React (React Hooks, React Context, React Router, Axios) 
 - <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query) 
+- <img src="https://img.icons8.com/?size=16&id=c2zmJ2--GehY&format=png" /> Webpack
 - <img src="https://img.icons8.com/?size=16&id=WwpSBtoaopNz&format=png" /> Jest
 - <img src="https://img.icons8.com/small/16/000000/sql.png"/> MySQL, PostgreSQL (basic) 
 - <img src="https://img.icons8.com/small/16/000000/psd.png"/> Figma, Zeplin, Photoshop 
