@@ -5,19 +5,30 @@
 </div>
 
 ### :hammer_and_wrench: My stack:
-- <img src="https://img.icons8.com/small/16/000000/source-code.png"/> HTML (Semantics)  
-- <img src="https://img.icons8.com/small/16/000000/css-filetype.png"/> CSS (Responsive, Adaptive, BEM), SASS/SCSS, Styled-Сomponents 
-- <img src="https://img.icons8.com/?size=16&id=24870&format=png" /> Bootstrap, Material-UI, Tailwind-UI, Ant-Design
-- <img src="https://img.icons8.com/small/16/000000/js.png"/> JavaScript (ES6+) 
-- <img src="https://img.icons8.com/?size=16&id=vMqgHSToxrJR&format=png" /> TypeScript
-- <img src="https://img.icons8.com/small/16/000000/react.png"/> React (React Hooks, React Context, React Router, Axios) 
-- <img src="https://img.icons8.com/?size=16&id=A6r5yddU9uA0&format=png" /> Redux (Saga, Thunk, Toolkit, RTK Query) 
-- <img src="https://img.icons8.com/?size=16&id=c2zmJ2--GehY&format=png" /> Webpack
-- <img src="https://img.icons8.com/?size=16&id=WwpSBtoaopNz&format=png" /> Jest
-- <img src="https://img.icons8.com/small/16/000000/sql.png"/> MySQL, PostgreSQL (basic) 
-- <img src="https://img.icons8.com/small/16/000000/psd.png"/> Figma, Zeplin, Photoshop 
-- <img src="https://img.icons8.com/small/16/000000/plugin.png"/> Tilda 
-- <img src="https://img.icons8.com/?size=16&id=2778&format=png"/> VS Code, WebStorm
+- HTML / Twig;
+- CSS / SCSS / CSS Modules / Styled-Сomponents;
+- Bootstrap / Material-UI / Tailwind-UI / Ant-Design;
+- TypeScript / JavaScript (ES6+);
+- React (React Hooks, React Context, React Router, Axios) 
+- Redux (Saga, Thunk, Toolkit, RTK Query) 
+- Webpack
+- Jest
+- Npm / Yarn;
+- ESLint  / Prettier;
+- Figma / Zeplin / Photoshop;
+- VS Code, WebStorm
+
+### :pencil: Extra skills:
+
+- Git / GitHub / Git-flow;
+- SOLID / KISS / DRY;
+- BEM (CSS);
+- JSON / JSON RPC;
+- MySQL / PostgreSQL;
+- Windows / Linux (Ubuntu);
+- Tilda.
+
+---
 
 I seek the opportunity to contribute my skills and expertise to a remarkable company and collaborate with an exceptional team. I remain receptive to new prospects and continuously embrace fresh opportunities for personal and professional growth.
 
