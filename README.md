@@ -7,16 +7,16 @@
 ### :hammer_and_wrench: My stack:
 - HTML / Twig;
 - CSS / SCSS / CSS Modules / Styled-Сomponents;
-- Bootstrap / Material-UI / Tailwind-UI / Ant-Design;
+- Bootstrap / Material-UI / Tailwind-UI / Ant-Design / Vuetify;
 - TypeScript / JavaScript (ES6+);
-- React (React Hooks, React Context, React Router, Axios) 
-- Redux (Saga, Thunk, Toolkit, RTK Query) 
-- Webpack
-- Jest
+- React / Vue.js / JQuery; 
+- Redux (Saga, Thunk, Toolkit, RTK Query);
+- Webpack;
+- Jest;
 - Npm / Yarn;
 - ESLint  / Prettier;
 - Figma / Zeplin / Photoshop;
-- VS Code, WebStorm
+- VS Code, WebStorm.
 
 ### :pencil: Extra skills:
 
