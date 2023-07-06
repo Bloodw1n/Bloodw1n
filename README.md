@@ -21,7 +21,8 @@
 ### :pencil: Extra skills:
 
 - Git / GitHub / Git-flow;
-- SOLID / KISS / DRY;
+- SOLID / KISS / DRY / YAGNI;
+- RTK Query;
 - BEM (CSS);
 - JSON / JSON RPC;
 - MySQL / PostgreSQL;
