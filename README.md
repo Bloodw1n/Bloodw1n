@@ -5,28 +5,32 @@
 </div>
 
 ### :hammer_and_wrench: My stack:
-- HTML / Twig;
-- CSS / SCSS / CSS Modules / Styled-Сomponents;
-- Bootstrap / Material-UI / Tailwind-UI / Ant-Design / Vuetify;
 - TypeScript / JavaScript (ES6+);
-- React / Vue.js / JQuery; 
-- Redux (Saga, Thunk, Toolkit, RTK Query);
-- Webpack;
-- Jest;
-- Npm / Yarn;
-- ESLint  / Prettier;
-- Figma / Zeplin / Photoshop;
-- VS Code, WebStorm.
+- React / Vue.js / JQuery;
+- Redux (Saga, Thunk, Toolkit) / Vuex / Effector;
+- RTK Query / React Query;
+- CSS / SCSS / CSS Modules / Styled-Сomponents
+- Webpack / Vite;
+- Jest / Vitest;
+- npm / yarn / pnpm;
+- ESLint / Prettier;
+- Git / GitHub / GitLab/ Git-flow / Conventional Commits
+- VS Code / WebStorm.
 
 ### :pencil: Extra skills:
 
-- Git / GitHub / Git-flow;
+- HTML / Twig;
+- Bootstrap / Material-UI / Tailwind-UI / Ant-Design / Kendo React / Vuetify / DevExtreme / ka-table / react-table;
+- Lodash / Formik / Highcharts / React Suit;
 - SOLID / KISS / DRY / YAGNI;
-- RTK Query;
+- Microfrontend / FSD / Clean architecture;
+- Storybook;
 - BEM (CSS);
 - JSON / JSON RPC;
+- Figma / Zeplin / Photoshop;
+- C++ / Java / Python / PHP;
 - MySQL / PostgreSQL;
-- Windows / Linux (Ubuntu);
+- Windows / Linux (Ubuntu)/ MacOS;
 - Tilda.
 
 ---
